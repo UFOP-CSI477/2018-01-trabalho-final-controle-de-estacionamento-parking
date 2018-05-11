@@ -41,5 +41,5 @@ Funcionalidades do sistema de controle de estacionamento:
   ![Check-in](https://github.com/UFOP-CSI477/2018-01-trabalho-final-controle-de-estacionamento-parking/blob/master/Prototipos/Tela_CheckIn.png)
 
 ### 5. Referências
-expparking.com.br
-Para a criação dos protótipos foi utilizada a ferramenta Pencil.
+* expparking.com.br
+* Para a criação dos protótipos foi utilizada a ferramenta Pencil.
