@@ -39,6 +39,8 @@ Funcionalidades do sistema de controle de estacionamento:
   ![Cadastro de veículo](https://github.com/UFOP-CSI477/2018-01-trabalho-final-controle-de-estacionamento-parking/blob/master/Prototipos/Tela_Cadastro_Veiculo.png)
  * Check-in
   ![Check-in](https://github.com/UFOP-CSI477/2018-01-trabalho-final-controle-de-estacionamento-parking/blob/master/Prototipos/Tela_CheckIn.png)
+ * Adquirir crédito
+  ![Adquirir crédito](https://github.com/UFOP-CSI477/2018-01-trabalho-final-controle-de-estacionamento-parking/blob/master/Prototipos/Tela_Adquirir_Credito.png)
 
 ### 5. Referências
 * expparking.com.br
