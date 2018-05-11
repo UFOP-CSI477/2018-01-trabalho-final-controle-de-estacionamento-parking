@@ -33,11 +33,11 @@ Funcionalidades do sistema de controle de estacionamento:
 ### 4. Protótipo
  * Login
   ![Login](https://github.com/UFOP-CSI477/2018-01-trabalho-final-controle-de-estacionamento-parking/blob/master/Prototipos/Tela_Login.png)
-   * Cadastro de usuário
+ * Cadastro de usuário
   ![Cadastro de usuário](https://github.com/UFOP-CSI477/2018-01-trabalho-final-controle-de-estacionamento-parking/blob/master/Prototipos/Tela_Cadastro_Usuario.png)
-   * Cadastro de veículo
+ * Cadastro de veículo
   ![Cadastro de veículo](https://github.com/UFOP-CSI477/2018-01-trabalho-final-controle-de-estacionamento-parking/blob/master/Prototipos/Tela_Cadastro_Veiculo.png)
-   * Check-in
+ * Check-in
   ![Check-in](https://github.com/UFOP-CSI477/2018-01-trabalho-final-controle-de-estacionamento-parking/blob/master/Prototipos/Tela_CheckIn.png)
 
 ### 5. Referências
