@@ -26,7 +26,7 @@ Funcionalidades do sistema de controle de estacionamento:
 ### 3. Restrições
 
  * Somente clientes cadastrados poderão fazer a reserva
- * Creditos pré-pagos so serão aceitos via pagamentos em cartão de crédito
+ * Creditos pré-pagos somente serão aceitos via pagamento em cartões de crédito
  * Após usuário realizar o check-in, não há formas de cancelar tal ato
  
 
