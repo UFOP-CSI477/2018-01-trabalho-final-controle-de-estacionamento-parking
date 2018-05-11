@@ -7,7 +7,7 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 
 ### 1. Tema
 
- O trabalho tem como tema o desenvolvimento de uma ferramenta de controle de estacionamento, onde um cliente poderá acessar um site e reservar uma vaga para o seu carro.
+ O trabalho tem como tema o desenvolvimento de uma ferramenta de controle de estacionamento, onde um cliente poderá acessar um site e reservar uma vaga desse estacionamento de forma simples, somente utilizando um cadastro e a placa do veículo.
 
 ### 2. Escopo
 * Sistema de cadastro de clientes
