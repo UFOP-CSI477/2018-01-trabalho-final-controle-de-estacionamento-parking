@@ -8,8 +8,11 @@ O objetivo deste documento é apresentar uma proposta para o trabalho a ser dese
 ### 1. Tema
 
 O trabalho tem como tema o desenvolvimento de um sistema de controle de estacionamento,são três tipos de usuários diferentes.
+
 Administrador: Que tem o maior controle de todo o sistema e é o responsável pela inserção de novos usuários, novas vagas( caso seja aumentado o estacionamento, por exemplo) e também é esse tipo de usuário que é o responsável pela inserção e modificação dos valores de cada tipo de carro.
+
 Operacional: É o controlador do sistema, esse usuário é responsável por controlar a entrada e saída dos veículos do estacionamento, além de conseguir gerar a segunda via do pagamento para os clientes.
+
 Usuário: Por fim é o tipo de usuário, o usuário cadastrado no nosso sistema consegue verificar tanto as vagas disponíveis quanto os valores de cada tipo de carro. Além disso ele pode gerar um histórico que contém todas as suas reservas efetuadas.
 
 ### 2. Escopo
