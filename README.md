@@ -19,13 +19,13 @@ Usuário: Por fim é o tipo de usuário, o usuário cadastrado no nosso sistema 
 Funcionalidades do sistema de controle de estacionamento:
 * Login ( com senha criptografada ) 
 * Cadastro de usuário
-* Check-in do usuário em uma dada vaga do estacionamento
+* Operador realiza o controle de entrada e de saída no estacionamento
 * Visualização de vagas do estacionamento pelos usuários cadastrados
 * Visualização de preços de cada tipo de veículo pelos usuários cadastrados
 * Exibir vagas( liberadas e ocupadas )
 * Modificação de dados para todos os tipos de usuários
 * Gerar histórico
-* Gerar extrato
+* Geração de fatura
 
 
 ### 3. Restrições
