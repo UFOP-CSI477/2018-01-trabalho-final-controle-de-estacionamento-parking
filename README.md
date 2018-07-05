@@ -1,5 +1,5 @@
 # **CSI477-2018-01 - CG Parking- Sistema de Estacionamento**
-## *Grupo: Gabriel Magalhães e Caio Caldeira
+## Grupo: Gabriel Magalhães e Caio Caldeira
 
 
 ### Resumo
